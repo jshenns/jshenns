@@ -1,5 +1,5 @@
 - Hello, I’m Joshua Ennis
-- I’m a MS student in computer engineering at the Texas A&M University focusing on hardware acceleration for Post-Quantum Cryptography
+- I’m an MS student in Computer Engineering at the Texas A&M University focusing on hardware acceleration for Post-Quantum Cryptography
 - How to reach me: JoshuaEnnis@my.unt.edu or joshennis115@gmail.com
 
 <!---
